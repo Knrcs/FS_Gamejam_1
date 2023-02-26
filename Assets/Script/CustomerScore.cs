@@ -24,10 +24,17 @@ public class CustomerScore : MonoBehaviour
     public bool Macaroons;
 
     [Header("Customer Morning")]
-    public bool Mr_Browns;
-    public bool Quaso;
-    public bool Sparkle;
-    public bool Chino;
+    public bool I_Mr_Browns;
+    public bool I_Sparkle;
+
+    [Header("Customer Noon")]
+    public bool II_Quaso;
+    public bool II_Sparkle;
+    public bool II_Chino;
+
+    [Header("Customer Evening")]
+    public bool III_Mr_Browns;
+    public bool III_Chino;
 
     
     void Start()
@@ -50,34 +57,61 @@ public class CustomerScore : MonoBehaviour
         Cookies = false;
         Crossiant = false;
         Macaroons = false;
-        
-        if(Mr_Browns == true)
-        {
-            Brownies = true;
-            Espresso = true;
-            Debug.Log("Variables set for Mr.Browns!");
-        }
+
+//Morning
+
+        if(I_Mr_Browns == true)
+            {
+                Espresso = true;
+                Debug.Log("Variables set for Mr.Browns!");
+            }
         else
-        if(Quaso == true)
-        {
-            Crossiant = true;
-            Debug.Log("Variables set for Quaso!");
-        }
+        if(I_Sparkle == true)
+            {
+                Latte_Macchiato = true;
+                BlueberryMuffin = true;
+                Debug.Log("Variables set for Sparkle!");
+            }
+        else   
+
+// Noon
+
+        if(II_Quaso == true)
+            {
+                Crossiant = true;
+                Debug.Log("Variables set for Quaso!");
+            }
         else
-        if(Sparkle == true)
-        {
-            White_Chocolate = true;
-            Hot_Chocolate = true;
-            Cinnamon_rolls = true;
-            Debug.Log("Variables set for Sparkle!");
-        }
+        if(II_Sparkle == true)
+            {
+                White_Chocolate = true;
+                Hot_Chocolate = true;
+                Cinnamon_rolls = true;
+                Debug.Log("Variables set for Sparkle!");
+            }
         else
-        if(Chino == true)
-        {
-            Cappuchino = true;
-            Cheesecake = true;
-            Debug.Log("Variables set for Chino!");
-        }    
+        if(II_Chino == true)
+            {
+                Cappuchino = true;
+                Cheesecake = true;
+                Debug.Log("Variables set for Chino!");
+            } 
+
+//Evening
+
+        if(III_Mr_Browns == true)
+            {
+                Brownies = true;
+                Espresso = true;
+                Debug.Log("Variables set for Mr.Browns!");
+            }
+        else
+        if(III_Chino == true)
+            {
+                Cappuchino = true;
+                Cheesecake = true;
+                Debug.Log("Variables set for Chino!");
+            } 
 
     }
 
