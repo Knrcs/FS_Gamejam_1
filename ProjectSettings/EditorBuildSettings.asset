@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/02_M_Browns_Order.unity
+    path: Assets/Scenes/Dialougues/01_Mr.Browns.unity
+    guid: 0158706d5ba0c4747915e51a0f723676
+  - enabled: 1
+    path: Assets/Scenes/01_M_Browns_Order.unity
+    guid: 683a0a8f2a354cd43a992d6169f92548
+  - enabled: 1
+    path: Assets/Scenes/Dialougues/01_Mr.Browns_end.unity
+    guid: c3ff27c314731464d9cc76692acb86dc
+  - enabled: 1
+    path: Assets/Scenes/Dialougues/02_M_Sparkle_Start.unity
+    guid: 23b6a2db338c53b4696eb8a8a88ab27b
+  - enabled: 1
+    path: Assets/Scenes/02_M_Sparkle_Order.unity
+    guid: 0bb20226cfd636e4883e4820c66b711e
+  - enabled: 1
+    path: Assets/Scenes/Dialougues/02_M_Sparkle_end.unity
+    guid: d0365ff8849501943a2683cf8e20f9d9
+  - enabled: 1
+    path: Assets/Scenes/Dialougues/03_N_Quaso_Start.unity
+    guid: 14ba939d89bc15b4989f37e627c5b119
+  - enabled: 1
+    path: Assets/Scenes/03_N_Quaso_Order.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Dialougues/03_N_Quaso_End.unity
+    guid: ccf266efe1dd9b7488f5708df5fc26f4
   m_configObjects: {}

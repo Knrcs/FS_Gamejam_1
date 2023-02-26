@@ -30,11 +30,10 @@ public class CustomerScore : MonoBehaviour
     [Header("Customer Noon")]
     public bool II_Quaso;
     public bool II_Sparkle;
-    public bool II_Chino;
 
     [Header("Customer Evening")]
     public bool III_Mr_Browns;
-    public bool III_Chino;
+    public bool III_Sparkle;
 
     
     void Start()
@@ -90,12 +89,6 @@ public class CustomerScore : MonoBehaviour
                 Debug.Log("Variables set for Sparkle!");
             }
         else
-        if(II_Chino == true)
-            {
-                Cappuchino = true;
-                Cheesecake = true;
-                Debug.Log("Variables set for Chino!");
-            } 
 
 //Evening
 
@@ -106,7 +99,7 @@ public class CustomerScore : MonoBehaviour
                 Debug.Log("Variables set for Mr.Browns!");
             }
         else
-        if(III_Chino == true)
+        if(III_Sparkle == true)
             {
                 Cappuchino = true;
                 Cheesecake = true;

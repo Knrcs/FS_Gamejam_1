@@ -1,0 +1,32 @@
+Credits:
+
+
+Art:
+- Room by Knrc
+- Drinks by Knrc
+- Priceboards by Nockcraft
+- Food items by Nockcraft
+- Shelf and Cat by Nockcraft
+
+Characters:
+- Quaso, Baki, Mr. Brown and Sparkle by Knrc
+
+Writing:
+- Nockcraft and Knrc
+
+Font:
+- Coffee First Font by Gassstype
+- Shadows into Light by Kimberly Geswein
+
+
+UI:
+- Dialogue system by DoublSB
+- Coffee Machine by Knrc
+- Food UI by Knrc
+
+
+Programming:
+- Code for the most game mechanics by Knrc
+
+Sound FX:
+- Coffee Machine sounds by RosesKray

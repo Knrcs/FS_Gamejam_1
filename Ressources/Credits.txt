@@ -25,15 +25,19 @@ Art:
 - Drinks by Knrc
 - Priceboards by Nockcraft
 - Food items by Nockcraft
+- Shelf and Cat by Nockcraft
+
+Characters:
+- Quaso, Baki, Mr. Brown and Sparkle by Knrc
 
 Writing:
-- Nockcraft
+- Nockcraft and Knrc
 
 Font:
+- Coffee First Font by Gassstype
+- Shadows into Light by Kimberly Geswein
 
-Shadows into Light by Kimberly Geswein
-Coffee First Font by Gassstype
 
 UI:
-- Coffee Machine by Knrc
 - Dialogue system by DoublSB
+- Coffee Machine by Knrc

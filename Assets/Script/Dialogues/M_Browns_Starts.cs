@@ -33,7 +33,7 @@ public class M_Browns_Starts : MonoBehaviour
     {
         if(DialogManager.Result == "Continue")
         {
-           SceneManager.LoadScene("02_M_Browns_Order");
+           SceneManager.LoadScene("01_M_Browns_Order");
         }
 }
 }
