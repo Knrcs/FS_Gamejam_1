@@ -1,0 +1,39 @@
+Credits:
+
+Music:
+	Morning:
+- Sleepy cat by Lofi hour
+- Coffee Chill Out by Roman Belov
+
+	Midday:
+- Jazz Cafe by FASSounds
+
+	Evening:
+- Rain Cafe Lo-Fi by Chill Theater
+- In the Room (when the rain pouring) by Lofi hour
+
+	Menu:
+- Night coffee shop by Lofi hour
+
+
+
+Sound FX:
+- Coffee Machine sounds by RosesKray
+
+Art:
+- Room by Knrc
+- Drinks by Knrc
+- Priceboards by Nockcraft
+- Food items by Nockcraft
+
+Writing:
+- Nockcraft
+
+Font:
+
+Shadows into Light by Kimberly Geswein
+Coffee First Font by Gassstype
+
+UI:
+- Coffee Machine by Knrc
+- Dialogue system by DoublSB
